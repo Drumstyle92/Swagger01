@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.develhope.Swagger01.Controllers","l":"DefaultController"},{"p":"it.develhope.Swagger01.Controllers","l":"NameController"},{"p":"it.develhope.Swagger01.Configurations","l":"SpringFoxConfig"},{"p":"it.develhope.Swagger01","l":"Swagger01Application"}];updateSearchResults();
